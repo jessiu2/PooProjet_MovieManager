@@ -1,0 +1,14 @@
+/home/kali/Desktop/MovieManager/obj/Debug/net7.0/MovieManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/Desktop/MovieManager/obj/Debug/net7.0/MovieManager.AssemblyInfoInputs.cache
+/home/kali/Desktop/MovieManager/obj/Debug/net7.0/MovieManager.AssemblyInfo.cs
+/home/kali/Desktop/MovieManager/obj/Debug/net7.0/MovieManager.csproj.CoreCompileInputs.cache
+/home/kali/Desktop/MovieManager/bin/Debug/net7.0/MovieManager
+/home/kali/Desktop/MovieManager/bin/Debug/net7.0/MovieManager.deps.json
+/home/kali/Desktop/MovieManager/bin/Debug/net7.0/MovieManager.runtimeconfig.json
+/home/kali/Desktop/MovieManager/bin/Debug/net7.0/MovieManager.dll
+/home/kali/Desktop/MovieManager/bin/Debug/net7.0/MovieManager.pdb
+/home/kali/Desktop/MovieManager/obj/Debug/net7.0/MovieManager.dll
+/home/kali/Desktop/MovieManager/obj/Debug/net7.0/refint/MovieManager.dll
+/home/kali/Desktop/MovieManager/obj/Debug/net7.0/MovieManager.pdb
+/home/kali/Desktop/MovieManager/obj/Debug/net7.0/MovieManager.genruntimeconfig.cache
+/home/kali/Desktop/MovieManager/obj/Debug/net7.0/ref/MovieManager.dll
